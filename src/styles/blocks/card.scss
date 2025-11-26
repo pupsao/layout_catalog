@@ -1,5 +1,4 @@
 .cards {
-  box-sizing: border-box;
   display: grid;
   grid-template-columns: repeat(var(--column-count), 200px);
   gap: 46px 48px;
