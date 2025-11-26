@@ -1,18 +1,12 @@
-body {
-  --main-color: #060b35;
-  --second-color: #616070;
-  --link-color: #00acdc;
-  --link-text-color: #fff;
-  --card-border: #f3f3f3;
-  --black: #060b35;
-  --blue: #00acdc;
-  --column-count: 1;
-
-  margin: 0;
-  padding: 0;
-  font-family: Roboto, sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 500;
-  font-style: normal;
-  font-variation-settings: 'wdth' 100;
-}
+$main-color: #060b35;
+$second-color: #616070;
+$link-color: #00acdc;
+$link-text-color: #fff;
+$card-border: #f3f3f3;
+$blue: #00acdc;
+$big-margin-header: 50px;
+$small-margin-header: 20px;
+$header-height: 60px;
+$title-hover-color: #34568b;
+$star-size: 16px;
+$star-margin: 4px;
